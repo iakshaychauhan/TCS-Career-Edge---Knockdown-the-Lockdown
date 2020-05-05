@@ -1,0 +1,43 @@
+Business Skills
+
+1 --> D
+2 --> C
+3 --> C
+4 --> D
+5 --> B
+6 --> A
+7 --> B
+8 --> C
+9 --> D
+10--> D
+11--> C
+12--> D
+13--> C
+14--> D
+15--> C
+
+
+Accounting Fundamentals
+
+1 --> A
+2 --> B
+3 --> C
+4 --> B
+5 --> A
+
+
+IT Fundamentals
+
+1 --> A
+2 --> C
+3 --> B
+4 --> B
+5 --> C
+
+Awarness on  AI
+
+1 --> C
+2 --> A
+3 --> A
+4 --> B
+5 --> D
